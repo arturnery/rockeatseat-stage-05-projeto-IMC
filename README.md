@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Jogo da Advinhacao" src="" width="100%">
+  <img alt="Projeto IMC" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
