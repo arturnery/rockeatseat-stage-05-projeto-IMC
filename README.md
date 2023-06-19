@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto "IMC" é um aplicativo que irá gerar o valor do IMC (Índice de Massa Corpórea) do usuario, com base na sua altura e peso.
 
-- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-jogo-da-adivinhacao/)
+- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-IMC)
 
 ## :memo: Licença
 
